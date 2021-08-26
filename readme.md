@@ -47,10 +47,9 @@
 
 	+ Para ejecutar desde la linea de comandos se va a utilizar el comando exec de la siguiente manera:
 	
-	
-		mvn exec:java -Dexec.mainClass="clase_principal_del_proyecto" -Dexec.args="argumentos_necesarios"
-		
-	
+	```
+	mvn exec:java -Dexec.mainClass="clase_principal_del_proyecto" -Dexec.args="argumentos_necesarios"
+	```
 ## HACER EL ESQUELETO DE LA APLICACION
 
 + ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
