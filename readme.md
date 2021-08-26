@@ -47,7 +47,9 @@
 
 	+ Para ejecutar desde la linea de comandos se va a utilizar el comando exec de la siguiente manera:
 	
+	
 		mvn exec:java -Dexec.mainClass="clase_principal_del_proyecto" -Dexec.args="argumentos_necesarios"
+		
 	
 ## HACER EL ESQUELETO DE LA APLICACION
 
@@ -59,10 +61,10 @@
 	
 ## BIBLIOGRAFIA
 
-+ [](https://www.mojohaus.org/exec-maven-plugin/usage.html)
-+ [](https://programmerclick.com/article/81251978045/)
-+ [](http://tutorials.jenkov.com/maven/maven-commands.html)
-+ [](https://geekflare.com/es/apache-maven-for-beginners/)
-+ [](https://developer.ibm.com/es/articles/j-5things16/)
-+ [](https://es.wikipedia.org/wiki/Maven#Plugins_disponibles)
-+ [](http://panamahitek.com/que-es-maven-y-para-que-se-utiliza/)
++ <https://www.mojohaus.org/exec-maven-plugin/usage.html>
++ <https://programmerclick.com/article/81251978045/>
++ <http://tutorials.jenkov.com/maven/maven-commands.html>
++ <https://geekflare.com/es/apache-maven-for-beginners/>
++ <https://developer.ibm.com/es/articles/j-5things16/>
++ <https://es.wikipedia.org/wiki/Maven#Plugins_disponi>
++ <http://panamahitek.com/que-es-maven-y-para-que-se-utiliza/>
